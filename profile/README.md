@@ -8,18 +8,7 @@ Nosso objetivo é transformar ideias em soluções digitais, unindo aprendizado 
 
 ## Contato
 
-<div>
-  
-  <a href="https://www.instagram.com/program_east/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=61581230303093">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-  </a>
-  
-  <a href="mailto:programeast0206@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-</div>
+<!-- badges do instagram, facebook e gmail --> 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/program_east/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61581230303093)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:programeast0206@gmail.com)
